@@ -6,12 +6,16 @@ You can visit me on [Sofyan](https://github.com/lighteagle)
 
 ## Features
 
-- Home to see my Profile
-- About to read more about me
-- Portofolio to see some project that i have done
+- Profile to look my profile
+- Experience to know my experience
+- Abilities to know my abilities
+- Project to know some project that i have done
+- Contact to send messege or contac me
 
 ## Screenshots
 
-![Home](img/home.png)
-![About](img/about.png)
-![Portofolio](img/Pf.png)
+![Profile](images/profile.png)
+![Experience](images/experience.png)
+![Abilities](images/abilities.png)
+![Project](images/project.png)
+![Contact](images/contact.png)
