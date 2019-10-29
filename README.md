@@ -14,4 +14,4 @@ You can visit me on [Sofyan](https://github.com/lighteagle)
 
 ![Home](img/home.png)
 ![About](img/about.png)
-![Portofolio](img/pf.png)
+![Portofolio](img/Pf.png)
