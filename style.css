@@ -92,6 +92,61 @@
   background-size: 100px;
 }
 
+/* Form Contact Me */
+form {
+  padding: 1em;
+  background: #f9f9f9;
+  border: 1px solid #c1c1c1;
+  margin-top: 2rem;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1em;
+}
+
+form input {
+  margin-bottom: 1rem;
+  background: #fff;
+  border: 1px solid #9c9c9c;
+}
+
+form button {
+  background: lightgrey;
+  padding: 0.7em;
+  border: 0;
+}
+
+form button:hover {
+  background: #dedede;
+}
+
+label {
+  text-align: left;
+  display: block;
+  padding: 0.5em 1.5em 0.5em 0;
+}
+
+input {
+  width: 100%;
+  padding: 0.7em;
+  margin-bottom: 0.5rem;
+}
+
+input:focus {
+  outline: 3px solid blueviolet;
+}
+
+
+textarea {
+  width: 100%;
+  padding: 0.7em;
+  margin-bottom: 0.5rem;
+}
+
+textarea:focus {
+  outline: 3px solid blueviolet;
+}
+
 @media (max-width: 700px) {
   .container {
     display: flex;
