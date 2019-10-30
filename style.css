@@ -141,6 +141,7 @@ textarea {
   width: 100%;
   padding: 0.7em;
   margin-bottom: 0.5rem;
+  border-color: #9c9c9c;
 }
 
 textarea:focus {
