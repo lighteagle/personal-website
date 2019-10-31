@@ -1,0 +1,32 @@
+@import 'variables';
+
+* {
+  box-sizing: border-box;
+  font-family: $primary-font;
+}
+
+body {
+  background-color: $light-backcolor-1;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: $dark-backcolor-1;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: $light-fontcolor-1;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: $hover-backcolor-1;
+  color: $dark-fontcolor-1;
+}
