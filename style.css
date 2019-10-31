@@ -53,6 +53,11 @@ footer {
   display: block;
   margin: auto;
   text-decoration: none;
+  transition: 1s;
+}
+
+.item img:hover {
+  width: 100%;
 }
 
 
