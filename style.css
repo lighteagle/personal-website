@@ -49,7 +49,6 @@
 .item .sosmed {
   width: 10%;
   display: inline;
-
 }
 
 .item p {
@@ -81,14 +80,12 @@
   margin-bottom: 0px;
   margin-left: 20px;
   margin-top: 0px;
-
 }
 
 .exp {
   background-image: url("images/career.png");
   background-repeat: no-repeat;
   background-position: left;
-
   background-size: 100px;
 }
 
@@ -136,7 +133,6 @@ input:focus {
   outline: 3px solid blueviolet;
 }
 
-
 textarea {
   width: 100%;
   padding: 0.7em;
@@ -159,6 +155,4 @@ textarea:focus {
   .item {
     width: 100%;
   }
-
-
 }
