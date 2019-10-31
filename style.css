@@ -3,6 +3,13 @@
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+footer {
+  position: fixed;
+  bottom: 0;
+}
+
+/* background */
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
@@ -45,7 +52,9 @@
   width: 80%;
   display: block;
   margin: auto;
+  text-decoration: none;
 }
+
 
 .item .sosmed {
   width: 10%;
@@ -53,7 +62,7 @@
 }
 
 .item p {
-  text-align: justify;
+  /* text-align: justify; */
   margin: 20px;
 }
 
@@ -144,6 +153,8 @@ textarea {
 textarea:focus {
   outline: 3px solid blueviolet;
 }
+
+
 
 @media (max-width: 700px) {
   .container {
